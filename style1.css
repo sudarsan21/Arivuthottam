@@ -1,0 +1,313 @@
+h6
+{
+	color:orange;
+	
+}
+h4
+{
+	color:#FF4500;
+}
+hr
+{
+	color:green;
+}
+.marquee
+{
+	color:red;
+	background-color:yellow;
+	
+	font-weight: bold;
+}
+.col-md-10 p
+{
+	text-indent:50px;
+	text-align:justify;
+	padding-top:25px;
+	line-height:30px;
+	color:white;
+}	
+.homeintro .row
+	{
+	background-image: url('images/bg5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  opacity:0.5;
+  
+}
+
+
+.col-md-10 h5
+{
+	padding-top:10px;
+	color:yellow;
+}
+.col-md-10 .green
+{
+	color:#7FFF00;
+	
+}
+.navhead a
+{
+	font-size:20px;
+	
+	font-weight:bold;
+	
+}
+.navbar-light .navbar-nav .nav-link.active
+{
+	color:green;
+}
+.navbar-light .navbar-nav .nav-link.nav-link 
+{
+	color:green;
+}
+.dropdown-menu
+{
+	background-color:#66CDAA;
+	border-color:green;
+}
+.dropdown-menu a
+{
+	color:white;
+	font-size:16px;
+}
+.navbar-light .navbar-nav .nav-link.active:hover
+{
+	
+	color:#F08080;
+	text-decoration-line: underline;
+}
+.navbar-light .navbar-nav .nav-link.nav-link:hover
+{
+	color:#F08080;
+	text-decoration-line: underline;
+}
+
+.fw-light
+{
+	color:green;
+}
+
+.fw-light:hover
+{
+	color:black;
+}
+.arivu
+{
+	padding-top:100px;
+	padding-left:450px;
+  color:green;  
+  
+}
+.naturefarm
+{
+	
+  background-color:pink;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color:darkblue;
+ 
+}
+.mns
+{
+	background-image: url('images/bg13.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color:#A52A2A;
+  
+}
+.col-sm-8
+{
+
+	text-align:justify;
+	line-height:2em;
+}
+.col-sm-6
+{
+	text-align:justify;
+	line-height:2em;
+}
+.wan
+{
+	background-image: url('images/bg17.avif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color:#8B008B;  
+  
+}
+.man
+{
+	background-image: url('images/bg14.avif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color:#00008B;  
+  
+}
+
+#socialicons
+{
+	background-color:#90EE90;
+	height:43px;
+	 padding:02px;
+	 padding-left:1000px;
+}
+
+.card{
+  
+ }
+
+.gallery{
+  background-image: url('images/bg2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+ }
+ .img-fluid
+{
+	width:250px;
+	height:250px;
+	opacity: 1.0;
+	
+}
+
+.img-fluid:hover
+{
+	 opacity: 0.5;
+	 background-color:green;
+	
+}
+ 
+ .col-sm-4 .img-fluid
+{
+	width:200px;
+	height:100px;
+}
+#addricon
+{
+	width:50px;
+	height:50px;
+	font-size: 50px;
+}
+#addrdetail
+{
+	color:olivegreen;
+	font-size:18px;
+}
+#row1
+	{
+		 background-image: url('images/g4.jpg');
+ 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  opacity:0.8;
+  color:blue;
+  
+}
+.contactus
+{
+	background-color:#E9967A;
+	color:darkblue;
+	font-weight:bold;
+	
+}
+#fixedfooter
+{
+padding-top:-10px;
+padding-bottom:0px;
+background-color:#90EE90;
+
+}	
+#fixedfooter .nav-link
+{
+	color:black;
+	font-size:15px;
+	font-weight:bold;
+	
+}
+#left
+{
+	padding-left:100px;
+}
+.rights
+{
+	color:black;
+	font-size:12px;
+	padding-right:80px;
+}
+/* Style all font awesome icons */
+.fa {
+	
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+   border-radius: 50%;
+     
+}
+#topup{
+	
+  position:fixed;
+  width:45px;
+  height:45px;
+  background:#27ae60;
+  bottom:60px;
+  right:10px;
+  text-align: center;
+  text-decoration: none;
+  color:white;font-size:22px;
+     
+}
+
+
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+  color:black;	
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #45bbff;
+  color:white;
+  width:40px;
+  height:40px;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  width:40px;
+  height:40px;
+  
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  width:40px;
+  height:40px;
+}
+.fa-whatsapp{
+  background: green;
+  color: white;
+  width:40px;
+  height:40px;
+}
+.fa-telegram
+{
+background: #87CEFA;
+  color: blue;
+  width:40px;
+  height:40px;	
+}
+
